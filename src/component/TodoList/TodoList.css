@@ -1,0 +1,11 @@
+button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  right: 30px;
+}
+.strike {
+  text-decoration: line-through;
+}

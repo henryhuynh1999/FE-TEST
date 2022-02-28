@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  width: 375px;
+  height: 100vh;
+  margin: 0 auto;
+  @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap");
+  box-shadow: 0px 4px 18px 0px #07050526;
+}
+li {
+  margin-left: 30px;
+  padding: 10px;
+}

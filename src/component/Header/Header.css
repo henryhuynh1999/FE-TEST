@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.header-left {
+  font-size: 14px;
+}
+.header-right-list {
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+}
+.header-right-item {
+  padding: 3px;
+  cursor: pointer;
+}

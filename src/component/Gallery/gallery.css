@@ -1,0 +1,18 @@
+.list-preview img {
+  width: 60px;
+  height: 90px;
+  position: relative;
+  left: 135px;
+  top: 240px;
+}
+.list-preview {
+  display: flex;
+}
+.preview-image {
+  object-fit: cover;
+}
+.gallery img {
+  padding: 0%;
+  border: 0;
+  margin: 0;
+}
